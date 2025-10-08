@@ -15,7 +15,7 @@ Phần 2: Giải quyết Sự cố Kỹ thuật Đơn giản với AI
 
   Nhiệm vụ 2.1: Xử lý sự cố kết nối Wi-Fi
 
-    Sử dụng AI để tìm cách khắc phục sự cố Wi-Fi mất kết nối trên Windows 11.
+    Sử dụng AI để tìm cách khắc phục sự cố Wi-Fi mất kết nối trên Windows 10.
 
   Nhiệm vụ 2.2: Xử lý lỗi phần mềm cơ bản
 
